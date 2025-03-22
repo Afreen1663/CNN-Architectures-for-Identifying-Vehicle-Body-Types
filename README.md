@@ -37,6 +37,7 @@ This car body type classification project uses deep learning techniques with CNN
 - The dataset consists of labeled images of different car body types.
 - Categories include Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, and VAN.
 - Images are divided into training and validation sets.
+<img width="614" alt="Image" src="https://github.com/user-attachments/assets/9ef62af7-cb00-4982-b2d2-91f28a582c64" />
 
 ## Model Training
 
@@ -70,11 +71,10 @@ The model was evaluated using accuracy and loss metrics. Visualizations of the t
 loss, accuracy = model.evaluate(validation_data)
 print(f"Validation Accuracy: {accuracy*100:.2f}%")
 ```
+<img width="341" alt="Image" src="https://github.com/user-attachments/assets/595411a6-2ff3-43b7-9243-db701c9d1f10" />
 
 ## Results
-
-- Model Accuracy: **92.4%**
 - The model correctly classifies car body types across multiple categories.
 - Visualization of accuracy and loss curves shows successful training with minimal overfitting.
-
+<img width="610" alt="Image" src="https://github.com/user-attachments/assets/9ebdc4bd-1323-41d9-bc48-ae32051f317b" />
 This project demonstrates how CNNs can be used effectively for image classification tasks in the automotive industry and beyond.
