@@ -76,5 +76,5 @@ print(f"Validation Accuracy: {accuracy*100:.2f}%")
 ## Results
 - The model correctly classifies car body types across multiple categories.
 - Visualization of accuracy and loss curves shows successful training with minimal overfitting.
-<img width="610" alt="Image" src="https://github.com/user-attachments/assets/9ebdc4bd-1323-41d9-bc48-ae32051f317b" />
+<img width="610" alt="Image" src="https://github.com/user-attachments/assets/9ebdc4bd-1323-41d9-bc48-ae32051f317b" /> <br />
 This project demonstrates how CNNs can be used effectively for image classification tasks in the automotive industry and beyond.
